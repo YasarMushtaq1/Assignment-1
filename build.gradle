@@ -1,0 +1,11 @@
+dependencies {
+    // Other dependencies
+    implementation 'com.journaldev.design:model:1.0.0'
+    implementation 'com.example:example-library:1.0.0'
+    implementation 'com.journaldev.design.model'
+    implementation 'com.journaldev.design.factory:1.0.0'
+    implementation 'com.journaldev.design.test'
+    implementation 'com.journaldev.design.abstractfactory.ServerFactory'
+    implementation 'com.journaldev.design.abstractfactory.PCFactory'
+
+}
